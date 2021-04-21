@@ -1,8 +1,11 @@
 # Microservicios App Cursos 
+
 Programación 3 - Examen Final
+
 UTN - FRM
 
 Alumno: Godoy, Jonathan.
+
 Profesor: Cortez, Alberto.
 
 Tecnologías utilizadas en el proyecto:
@@ -15,6 +18,7 @@ Tecnologías utilizadas en el proyecto:
 -Maven
 
 IDE utilizado:
+
 BackEnd: IntelliJ IDEA (Community Edition): 2021.1
 FrontEnd: Visual Studio Code.
 
